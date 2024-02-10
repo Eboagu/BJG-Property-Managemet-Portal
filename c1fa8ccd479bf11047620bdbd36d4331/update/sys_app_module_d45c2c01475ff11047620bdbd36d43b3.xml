@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="BJG Property Management">31396c4d471ff11047620bdbd36d434c</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>BJG Closed Request</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_1152989_bjg_pr_1_request_table</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-22 03:28:37</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>d45c2c01475ff11047620bdbd36d43b3</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Closed Request</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="BJG Property Management" source="x_1152989_bjg_pr_1">c1fa8ccd479bf11047620bdbd36d4331</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BJG Property Management">c1fa8ccd479bf11047620bdbd36d4331</sys_scope>
+        <sys_update_name>sys_app_module_d45c2c01475ff11047620bdbd36d43b3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-22 03:32:47</sys_updated_on>
+        <timeline_page/>
+        <title>Closed Request</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>

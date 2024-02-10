@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom">
+    <sc_cat_item_user_criteria_mtom action="DELETE">
+        <sc_cat_item display_value="BJG Record Producer">37dea4c1475ff11047620bdbd36d4305</sc_cat_item>
+        <sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-22 04:18:56</sys_created_on>
+        <sys_id>a8f7700d475ff11047620bdbd36d43b5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>BJG Record Producer.Users with 'Admin' Role</sys_name>
+        <sys_package display_value="BJG Property Management" source="x_1152989_bjg_pr_1">c1fa8ccd479bf11047620bdbd36d4331</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BJG Property Management">c1fa8ccd479bf11047620bdbd36d4331</sys_scope>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_a8f7700d475ff11047620bdbd36d43b5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-22 04:18:56</sys_updated_on>
+        <user_criteria display_value="Users with 'Admin' Role">cb8e06e9d7103100f2d224837e610339</user_criteria>
+    </sc_cat_item_user_criteria_mtom>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="BJG Property Management">c1fa8ccd479bf11047620bdbd36d4331</application>
+        <file_path/>
+        <instance_id>c44420d5db1b295cba7f684e139619d7</instance_id>
+        <instance_name>dev175997</instance_name>
+        <name>sc_cat_item_user_criteria_mtom_a8f7700d475ff11047620bdbd36d43b5</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom"><sc_cat_item_user_criteria_mtom action="INSERT_OR_UPDATE"><sc_cat_item display_value="BJG Record Producer">37dea4c1475ff11047620bdbd36d4305</sc_cat_item><sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-22 04:18:56</sys_created_on><sys_id>a8f7700d475ff11047620bdbd36d43b5</sys_id><sys_mod_count>0</sys_mod_count><sys_name>BJG Record Producer.Users with 'Admin' Role</sys_name><sys_package display_value="BJG Property Management" source="x_1152989_bjg_pr_1">c1fa8ccd479bf11047620bdbd36d4331</sys_package><sys_policy/><sys_scope display_value="BJG Property Management">c1fa8ccd479bf11047620bdbd36d4331</sys_scope><sys_update_name>sc_cat_item_user_criteria_mtom_a8f7700d475ff11047620bdbd36d43b5</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-22 04:18:56</sys_updated_on><user_criteria display_value="Users with 'Admin' Role">cb8e06e9d7103100f2d224837e610339</user_criteria></sc_cat_item_user_criteria_mtom></record_update>]]></payload>
+        <payload_hash>-1787386331</payload_hash>
+        <record_name>BJG Record Producer.Users with 'Admin' Role</record_name>
+        <reverted_from/>
+        <source>85fa8ccd479bf11047620bdbd36d4333</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-22 04:18:56</sys_created_on>
+        <sys_id>a8f7700d475ff11047620bdbd36d43b8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c8fbf6e520000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-22 04:18:56</sys_updated_on>
+        <type>Catalog Item Available for</type>
+        <update_guid>2cf7700d5e5ff1107e313abd4aea6eb7</update_guid>
+        <update_guid_history>2cf7700d5e5ff1107e313abd4aea6eb7:-1787386331</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="BJG Record Producer.Users with 'Admin' Role">cf38b40d475ff11047620bdbd36d4342</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-22 04:20:12</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_user_criteria_mtom">sc_cat_item_user_criteria_mtom</sys_db_object>
+        <sys_id>5c1a6e6f045346709425f57f917ae790</sys_id>
+        <sys_metadata>a8f7700d475ff11047620bdbd36d43b5</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>BJG Record Producer.Users with 'Admin' Role</sys_name>
+        <sys_package display_value="BJG Property Management" source="x_1152989_bjg_pr_1">c1fa8ccd479bf11047620bdbd36d4331</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="BJG Property Management">c1fa8ccd479bf11047620bdbd36d4331</sys_scope>
+        <sys_scope_delete display_value="">0001e569521b48c180000aa4a7a72a81</sys_scope_delete>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_a8f7700d475ff11047620bdbd36d43b5</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_user_criteria_mtom_a8f7700d475ff11047620bdbd36d43b5">a8f7700d475ff11047620bdbd36d43b8</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-22 04:20:12</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
